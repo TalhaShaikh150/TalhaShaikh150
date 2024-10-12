@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
+qq![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://developer-talha.netlify.app/](developer-talha.netlify.app)
+- 👨‍💻 All of my projects are available at [developer-talha.netlify.app](https://developer-talha.netlify.app/)
 
 - 💬 Ask me about **Frontend**
 
