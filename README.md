@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with learning **Backend**
 
-- 👨‍💻 All of my projects are available at [developer-talha.netlify.app](developer-talha.netlify.app)
+- 👨‍💻 All of my projects are available at [https://developer-talha.netlify.app/](developer-talha.netlify.app)
 
 - 💬 Ask me about **Frontend**
 
