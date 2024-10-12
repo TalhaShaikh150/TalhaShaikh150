@@ -39,7 +39,6 @@
 <a href="https://instagram.com/talhashaikh6606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talhashaikh6606" height="30" width="40" /></a>
 </p>
 
-<img align="left" width="50%" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 
 
