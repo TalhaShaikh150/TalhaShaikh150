@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **tssmart233@gmail.com**
+- 📫 How to reach me **devtalhashaikh@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
