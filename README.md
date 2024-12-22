@@ -1,7 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)
 
-<h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+
 <img align="center" height="10px" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
