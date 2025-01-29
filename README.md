@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with learning **Backend**
+- 🤝 I’m looking for help with learning **FrontEnd**
 
 - 🚀 I'm currently working on my portfolio **Website**
 
