@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [developer-talha.netlify.app](https://developer-talha.netlify.app/)
 
-- 💬 Ask me about **Frontend**
-
 - 📫 How to reach me **devtalhashaikh@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
