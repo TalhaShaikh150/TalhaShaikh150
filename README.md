@@ -37,7 +37,7 @@
   </a> 
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhashaikh150" alt="talhashaikh150" />
 </p>
 
