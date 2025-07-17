@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on Agent Chain Builder ([Agent-Chain-Builder](https://agent-chain-builder.vercel.app/))
+- 🔭 I’m currently working on With Elaview Startup Company
 
-- 👨‍💻 All of my projects are available at [developer-talha.netlify.app](https://developer-talha.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://dev-talha.netlify.app/)
 
 - 📫 How to reach me **devtalhashaikh@gmail.com**
 
