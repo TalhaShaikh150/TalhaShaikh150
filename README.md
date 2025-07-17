@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Talha Shaikh</h1>
-<h2 align="left">Aspiring MERN Stack Developer From Pakistan</h2>
+<h2 align="left">Front End Developer From Pakistan</h2>
 
 <p>Passionate about building responsive and dynamic web applications. Continuously learning and growing in JavaScript, Next.js, and full-stack development. I love turning ideas into user-friendly digital experiences.</p>
 
