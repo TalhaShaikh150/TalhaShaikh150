@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on With Elaview Startup Company
 
-- 👨‍💻 All of my projects are available at [portfolio](https://dev-talha.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](http://talha.novixsoft.com/)
 
 - 📫 How to reach me **devtalhashaikh@gmail.com**
 
