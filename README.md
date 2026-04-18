@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on With Elaview Startup Company
 
-- 👨‍💻 All of my projects are available at [portfolio](http://talha.novixsoft.com/)
+- 👨‍💻 All of my projects are available at [portfolio](https://websbytalha.com/)
 
 - 📫 How to reach me **devtalhashaikh@gmail.com**
 
